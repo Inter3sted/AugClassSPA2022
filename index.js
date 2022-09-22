@@ -11,15 +11,19 @@ function render(state = store.Home) {
       ${Nav(store.Links)}
       ${Main(state)}
       ${Footer()}
-    `;
+      `;
+    afterRender(state);
 
     router.updatePageLinks();
 }
 
+function afterRender(state) {
+    document.querySelector(".fa-bars").addEventListener("click", () => {
+        document.querySelector("nav > ul").classList.toggle("hidden--mobile");
+    });
+}
 // add menu toggle to bars icon in nav bar
-// document.querySelector(".fa-bars").addEventListener("click", () => {
-//     document.querySelector("nav > ul").classList.toggle("hidden--mobile");
-// });
+
 
 router.on({
         "/": () => render(),
