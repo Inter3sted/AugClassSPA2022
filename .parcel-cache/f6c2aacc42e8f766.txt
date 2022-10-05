@@ -114,7 +114,7 @@
 101C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\src\internal\SubjectSubscription.ts133081069590637924 0
 94C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\node_modules\argparse\lib\action\store\true.js133081069522520976 0
 75C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\node_modules\sprintf-js\src133081069498516850 1
-52C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\dist133088059699821664 1
+52C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\dist133089714280517894 1
 113C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\node_modules\@parcel\package-manager\test\fixtures\packages\peers133081084359709124 1
 68C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\node_modules\@parcel133081084415186484 1
 88C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\node_modules\lightningcss\node\index.mjs133081084347336340 0
@@ -162,7 +162,7 @@
 106C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\node_modules\@parcel\reporter-cli\test\CLIReporter.test.js133081084358028743 0
 88C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\add\operator\concat.js133081069546357959 0
 98C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\internal\operators\repeat.js.map133081069574404264 0
-56C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\index.js133088059698132593 0
+56C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\index.js133089725167455719 0
 100C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\node_modules\terser\node_modules\acorn\dist\acorn.js133081084359809146 0
 88C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\BehaviorSubject.js.map133081069567262654 0
 98C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\node_modules\@swc\helpers\src\_define_property.mjs133081084357978739 0
@@ -10284,7 +10284,7 @@
 89C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\node_modules\@swc\helpers\src\_update.mjs133081084359489072 0
 103C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\node_modules\@swc\helpers\src\_wrap_async_generator.mjs133081084359499077 0
 100C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\node_modules\@swc\helpers\src\_wrap_native_super.mjs133081084359509082 0
-74C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\dist\index.3d214d75.js.map133088059699811653 0
+74C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\dist\index.3d214d75.js.map133089714280507888 0
 90C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\node_modules\@swc\helpers\scripts\build.sh133081084359539088 0
 88C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\node_modules\@swc\helpers\scripts\gen.sh133081084359569088 0
 87C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\node_modules\@parcel\markdown-ansi\test133081084358258797 1
@@ -11371,7 +11371,7 @@
 71C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\node_modules\.bin\which133081069594047687 0
 75C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\node_modules\.bin\which.cmd133081069594047687 0
 71C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\dist\index.3a01df49.css133088058529602302 0
-70C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\dist\index.3d214d75.js133088059699771646 0
+70C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\dist\index.3d214d75.js133089714280467877 0
 68C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\components\Footer.js133084286273455594 0
 66C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\components\Main.js133082872492270353 0
 73C:\Users\skole\Code\SavvyCoders\AugClassSPA2022\components\views\Pizza.js133088057173839534 0

@@ -49,9 +49,15 @@ router.hooks({
 
                         store.Home.weather = {};
                         store.Home.weather.city = response.data.name;
-                        store.Home.weather.temp = kelvinToFahrenheit(response.data.main.temp);
-                        store.Home.weather.feelsLike = kelvinToFahrenheit(response.data.main.feels_like);
+                        store.Home.weather.temp = kelvinToFahrenheit(
+                            response.data.main.temp
+                        );
+                        store.Home.weather.feelsLike = kelvinToFahrenheit(
+                            response.data.main.feels_like
+                        );
                         store.Home.weather.description = response.data.weather[0].main;
+
+                        console.log(response.data);
                         done();
                     })
                     .catch(err => console.log(err));
@@ -63,7 +69,7 @@ router.hooks({
                         store.Pizza.pizzas = response.data;
                         done();
                     })
-                    .catch((error) => {
+                    .catch(error => {
                         console.log("It puked", error);
                         done();
                     });
@@ -74,8 +80,7 @@ router.hooks({
     }
 });
 
-router
-    .on({
+router.on({
         "/": () => render(),
         ":view": params => {
             let view = capitalize(params.data.view);
